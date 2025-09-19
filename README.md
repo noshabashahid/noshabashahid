@@ -24,10 +24,13 @@
 - Exploring *Software Requirement Engineering* for practical applications
 ---
 
-## 🎨 Hobbies & Interests  
-- 📚 Reading novels & books  
-- 🌱 Gardening & planting  
-- 🎸 Designing infographics to simplify technical concepts  
+## 🎯 Interests & Hobbies 
+- 💻 Passionate about *coding* and improving problem-solving skills  
+- 📚 Enjoy *reading novels and books* to broaden knowledge and relax  
+- 🌱 Love *gardening and planting* as a refreshing hobby  
+- 🌐 Currently exploring *Databases* and *Computer Networks*  
+- 🚀 Focused on building *confidence* and continuously improving myself  
+- 🎨 Interested in creating infographics to simplify technical concepts  
 
 ---
 
