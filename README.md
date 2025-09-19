@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I’m Noshaba  
 
-<!--
-**noshabashahid/noshabashahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *IT Student* at International Islamic University (5th Semester)  
+💻 Exploring programming and building beginner-friendly projects step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- 🖥 C / C++  
+- 🌐 Basic HTML  
+
+---
+
+## 📂 Projects I’ve Worked On  
+- 🎮 *3D Maze Game* – my first step into computer graphics  
+- 📑 *SRS of Beyond the Surface* – Software Requirement Specification  
+- 📝 *Dynamic Quiz Generator* – built using C++  
+
+---
+
+## 📖 Focus Areas  
+- Strengthening concepts in *Data Structures & Algorithms*  
+- Building problem-solving skills through *Object-Oriented Programming (C++)*  
+- Exploring *Software Requirement Engineering* for practical applications
+---
+
+## 🎨 Hobbies & Interests  
+- 📚 Reading novels & books  
+- 🌱 Gardening & planting  
+- 🎸 Designing infographics to simplify technical concepts  
+
+---
+
+✨ “Learning never stops — every small step adds up to something bigger.”
+
